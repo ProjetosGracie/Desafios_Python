@@ -1,4 +1,4 @@
-# 💻 Desafios de Computação em Linguagem C
+# 💻 Desafios de Computação em Python
 
 ## 📌 Sobre o projeto
 
