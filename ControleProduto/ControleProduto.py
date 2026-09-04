@@ -76,7 +76,7 @@ def informarEstoque():
     estoque = produto["estoque"]
     
     if estoque == 0:
-        # Adicionei o nome do produto para você saber de quem é o estoque
+        # saber de quem é o estoque
         print(f"{produto['nome']}: Não há produtos no estoque")
         
     elif estoque <= 3:
